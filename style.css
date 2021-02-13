@@ -461,18 +461,18 @@ footer .social-media-footer ul li:hover a .fa-github {
     text-align: center;
   }
 
-  footer #left-footer {
+  footer .left-footer {
     flex: 1;
     border-right: 0;
     padding-left: 0;
   }
 
-  footer #right-footer {
+  footer .right-footer {
     background: #eee;
     color: black;
   }
 
-  footer #right-footer a {
+  footer .right-footer a {
     color: black;
   }
 
